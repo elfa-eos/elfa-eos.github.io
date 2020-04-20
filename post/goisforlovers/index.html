@@ -10,17 +10,17 @@
 <meta property = 'og:type' content = 'article' />
 <meta property = 'og:title' content = '(Hu)go Template Primer' />
 <meta property = 'og:description' content = 'Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of …'>
-<meta property = 'og:url' content = '=elfa-eos.github.io/post/goisforlovers/' />
-<meta property = 'og:image' content = '=elfa-eos.github.io/images/artist.jpg'/>
-<link rel='apple-touch-icon' sizes='180x180' href='=elfa-eos.github.io/images/icons/apple-touch-icon.png'>
-<link rel='icon' type='image/png' sizes='32x32' href='=elfa-eos.github.io/images/icons/favicon-32x32.png'>
-<link rel='icon' type='image/png' sizes='16x16' href='=elfa-eos.github.io/images/icons/favicon-16x16.png'>
-<link rel='manifest' href='=elfa-eos.github.io/images/icons/site.webmanifest'>
+<meta property = 'og:url' content = 'http://elfa-eos.github.io/post/goisforlovers/' />
+<meta property = 'og:image' content = 'http://elfa-eos.github.io/images/artist.jpg'/>
+<link rel='apple-touch-icon' sizes='180x180' href='http://elfa-eos.github.io/images/icons/apple-touch-icon.png'>
+<link rel='icon' type='image/png' sizes='32x32' href='http://elfa-eos.github.io/images/icons/favicon-32x32.png'>
+<link rel='icon' type='image/png' sizes='16x16' href='http://elfa-eos.github.io/images/icons/favicon-16x16.png'>
+<link rel='manifest' href='http://elfa-eos.github.io/images/icons/site.webmanifest'>
 <meta name='msapplication-TileColor' content='#da532c'>
 <meta name='theme-color' content='#ffffff'>
 
-  <link rel='canonical' href='=elfa-eos.github.io/post/goisforlovers/'>
-  <link rel = 'stylesheet' href = '/=elfa-eos.github.io/css/main.5fc347fb3ae89365ad4f2304b3e328a19aefa9686d5d276d54fc892eae93bfb2ff9bcced2f21c91ab22a066ac86e70fc64796ab5c5f914ed675a44dc85c31188.css' integrity = 'sha512-X8NH&#43;zrok2WtTyMEs&#43;MooZrvqWhtXSdtVPyJLq6Tv7L/m8ztLyHJGrIqBmrIbnD8ZHlqtcX5FO1nWkTchcMRiA=='>
+  <link rel='canonical' href='http://elfa-eos.github.io/post/goisforlovers/'>
+  <link rel = 'stylesheet' href = 'http://elfa-eos.github.io/css/main.73187d254300105818634e4ae8ae05fef7527261cc25eafd50d470c2b5dc76e668b5b65c3722747a6a4d97f6bc8308dee31db8f62f7f23746508ece76bacc6c3.css' integrity = 'sha512-cxh9JUMAEFgYY05K6K4F/vdScmHMJer9UNRwwrXcduZotbZcNyJ0empNl/a8gwje4x249i9/I3RlCOzna6zGww=='>
 </head>
 
   <body>
@@ -37,7 +37,7 @@
 </div>
 <header class = 'nav' >
   <nav class = 'nav-menu'>
-    <a href='=elfa-eos.github.io' class = 'nav-brand nav_item'>elfa-eos</a>
+    <a href='http://elfa-eos.github.io' class = 'nav-brand nav_item'>elfa-eos</a>
     <div class = 'nav_bar-wrap'>
       <div class = 'nav_bar'></div>
     </div>
@@ -53,7 +53,7 @@
       <div class = 'post_body'>
         <div class = 'post_inner'>
         
-          <img src = '=elfa-eos.github.io/images/artist.jpg' alt = 'artist.jpg' class = 'post_thumbnail'>
+          <img src = 'http://elfa-eos.github.io/images/artist.jpg' alt = 'artist.jpg' class = 'post_thumbnail'>
         
           <p>Hugo uses the excellent <a href="https://golang.org/">Go</a> <a href="https://golang.org/pkg/html/template/">html/template</a> library for
 its template engine. It is an extremely lightweight engine that provides a very
@@ -92,7 +92,7 @@ functions.</p>
 <p>Each Go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-<a href="=elfa-eos.github.io/layout/variables">variables</a> page.</p>
+<a href="http://elfa-eos.github.io/layout/variables">variables</a> page.</p>
 <p>A variable is accessed by referencing the variable name.</p>
 <pre><code>&lt;title&gt;{{ .Title }}&lt;/title&gt;
 </code></pre>
@@ -103,7 +103,7 @@ page you are rendering. More details are available on the
 <h2 id="functions">Functions</h2>
 <p>Go template ship with a few functions which provide basic functionality. The Go
 template system also provides a mechanism for applications to extend the
-available functions with their own. <a href="=elfa-eos.github.io/layout/functions">Hugo template
+available functions with their own. <a href="http://elfa-eos.github.io/layout/functions">Hugo template
 functions</a> provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -234,7 +234,7 @@ type (supported by your front matter/config format) and use them however
 you want to inside of your templates.</p>
 <h2 id="using-content-page-parameters">Using Content (page) Parameters</h2>
 <p>In each piece of content you can provide variables to be used by the
-templates. This happens in the <a href="=elfa-eos.github.io/content/front-matter">front matter</a>.</p>
+templates. This happens in the <a href="http://elfa-eos.github.io/content/front-matter">front matter</a>.</p>
 <p>An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
 doesn&rsquo;t make a lot of sense. We&rsquo;ve defined a variable in our front matter
@@ -375,7 +375,7 @@ so, such as in this example:</p>
       </div>
     </div>
   </div>
-  <a href = '=elfa-eos.github.io' class = 'post_nav'><span class = 'post_next'>The Latest</span>T</a>
+  <a href = 'http://elfa-eos.github.io' class = 'post_nav'><span class = 'post_next'>The Latest</span>T</a>
 
     </main>
     <footer class = 'footer wrap pale'>
@@ -384,7 +384,7 @@ so, such as in this example:</p>
 </footer>
 
 
-<script src = '/=elfa-eos.github.io/js/index.min.602ed47b61c472bbdc13d93a02ec3ad1278827ffc1e57eb145d1600df55e0144fc49779418f302a2a7bc81be20efc502d5faaba9736ac11fa681ca6270645ad0.js'></script>
+<script src = 'http://elfa-eos.github.io/js/index.min.fd189a42fa95cba0f77cf6d71f5deef6cf1133bd66f33e208528f42994477244a119927d53b60e92d95b57bb32e01ee87f2332f8abe726f552a613c7c9256e58.js'></script>
 
   </body>
 </html>

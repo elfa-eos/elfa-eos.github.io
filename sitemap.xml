@@ -3,102 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>=elfa-eos.github.io/post/myfirst/</loc>
+    <loc>http://elfa-eos.github.io/post/myfirst/</loc>
     <lastmod>2020-04-19T20:09:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/post/</loc>
+    <loc>http://elfa-eos.github.io/post/</loc>
     <lastmod>2020-04-19T20:09:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/</loc>
+    <loc>http://elfa-eos.github.io/links/</loc>
+    <lastmod>2020-04-19T20:08:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elfa-eos.github.io/</loc>
     <lastmod>2019-08-25T00:52:59+03:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/emoji/</loc>
+    <loc>http://elfa-eos.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/post/emoji-support/</loc>
+    <loc>http://elfa-eos.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/</loc>
+    <loc>http://elfa-eos.github.io/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/post/creating-a-new-theme/</loc>
+    <loc>http://elfa-eos.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/about/</loc>
+    <loc>http://elfa-eos.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/post/goisforlovers/</loc>
+    <loc>http://elfa-eos.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/categories/</loc>
+    <loc>http://elfa-eos.github.io/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/categories/development/</loc>
+    <loc>http://elfa-eos.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/development/</loc>
+    <loc>http://elfa-eos.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/post/hugoisforlovers/</loc>
+    <loc>http://elfa-eos.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/go/</loc>
+    <loc>http://elfa-eos.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/golang/</loc>
+    <loc>http://elfa-eos.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/categories/golang/</loc>
+    <loc>http://elfa-eos.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/hugo/</loc>
+    <loc>http://elfa-eos.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/templates/</loc>
+    <loc>http://elfa-eos.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/tags/themes/</loc>
+    <loc>http://elfa-eos.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>=elfa-eos.github.io/post/migrate-from-jekyll/</loc>
+    <loc>http://elfa-eos.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   

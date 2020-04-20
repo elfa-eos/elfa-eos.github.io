@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on elfa-eos</title>
-    <link>=elfa-eos.github.io/categories/</link>
+    <link>http://elfa-eos.github.io/categories/</link>
     <description>Recent content in Categories on elfa-eos</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="=elfa-eos.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://elfa-eos.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>=elfa-eos.github.io/categories/development/</link>
+      <link>http://elfa-eos.github.io/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>=elfa-eos.github.io/categories/development/</guid>
+      <guid>http://elfa-eos.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>=elfa-eos.github.io/categories/golang/</link>
+      <link>http://elfa-eos.github.io/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>=elfa-eos.github.io/categories/golang/</guid>
+      <guid>http://elfa-eos.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
